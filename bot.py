@@ -290,4 +290,4 @@ async def on_command_error(ctx, error):
     embed = discord.Embed(title="Error", description=f"Something went wrong! \n\n{error}", color=0xEB3F3F)
     await ctx.send(content=f"{ctx.message.author.mention}", embed=embed)
 
-bot.run("NzE2NTMwMzI2NjYyNTQ1NDUw.Xurvqw.YNmGqPVXChIsXyiqw4VhR9UeDnc")
+bot.run("NzE2NTMwMzI2NjYyNTQ1NDUw.Xu8uUA.40_26f5TVGBVqlsEYRjnfVP9I2w")
